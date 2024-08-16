@@ -1,6 +1,8 @@
 # Data-Collaboration-Papers
 This is a collection of papers for Data Collaboration Analysis.
 
+NOTE: the information of 
+
 1. Data collaboration analysis for distributed datasets - [[PDF](https://arxiv.org/pdf/1902.07535)]
 
 2. Distributed Collaborative Feature Selection Based on Intermediate Representation - [[PDF](https://www.ijcai.org/Proceedings/2019/0575.pdf)]
@@ -11,4 +13,29 @@ This is a collection of papers for Data Collaboration Analysis.
 
 5. Decentralized learning with virtual patients for medical diagnosis of diabetes - [[PDF](https://link.springer.com/content/pdf/10.1007/s42979-021-00564-1.pdf)]
 
-6. 
+6. Accuracy and Privacy Evaluations of Collaborative Data Analysis - [[PDF](https://arxiv.org/pdf/2101.11144)]
+
+7. Collaborative Data Analysis: Non-model Sharing-Type Machine Learning for Distributed Data - [[HTML](https://link.springer.com/chapter/10.1007/978-3-030-69886-7_2)]
+
+8. Interpretable collaborative data analysis on distributed data - [[HTML](https://doi.org/10.1016/j.eswa.2021.114891)]
+
+9. A Privacy Preserving Scheme with Dimensionality Reduction for Distributed Machine Learning - [[HTML](https://ieeexplore.ieee.org/document/9546850)] 🔒
+
+10. Application of data collaboration analysis to distributed data with misaligned features - [[HTML](https://doi.org/10.1016/j.imu.2022.101013)]
+
+11. Another Use of SMOTE for Interpretable Data Collaboration Analysis - [[HTNL](https://doi.org/10.1016/j.eswa.2023.120385)]
+
+12. Achieving Transparency in Distributed Machine Learning with Explainable Data Collaboration - [[PDF](https://arxiv.org/pdf/2212.03373)]
+
+13. Non-readily identifiable data collaboration analysis for multiple datasets including personal information - [[HTML](https://doi.org/10.1016/j.inffus.2023.101826)]
+
+14. Image Data Recoverability Against Data Collaboration and Its Countermeasure. - [[HTML](https://doi.org/10.1007/978-981-19-7769-5_1)] 🔒
+
+15. DC-COX: Data collaboration Cox proportional hazards model for privacy-preserving survival analysis on multiple parties - [[HTML](https://doi.org/10.1016/j.jbi.2022.104264)]
+
+16. Collaborative causal inference on distributed data - [[PDF](https://doi.org/10.1016/j.eswa.2023.123024)]
+
+17. Data Collaboration Analysis applied to Compound Datasets and the Introduction of Projection data to Non-IID settings - [[PDF](https://arxiv.org/pdf/2308.00280)]
+
+18. DC-SHAP Method for Consistent Explainability in Privacy-Preserving Distributed Machine Learning - [[PDF](https://link.springer.com/content/pdf/10.1007/s44230-023-00032-4.pdf)]
+
