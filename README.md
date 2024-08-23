@@ -1,7 +1,7 @@
 # Data-Collaboration-Papers
 This is a collection of papers for Data Collaboration Analysis.
 
-NOTE: the information of 
+NOTE: last update (2024/8/23)
 
 1. Data collaboration analysis for distributed datasets - [[PDF](https://arxiv.org/pdf/1902.07535)]
 
@@ -38,4 +38,11 @@ NOTE: the information of
 17. Data Collaboration Analysis applied to Compound Datasets and the Introduction of Projection data to Non-IID settings - [[PDF](https://arxiv.org/pdf/2308.00280)]
 
 18. DC-SHAP Method for Consistent Explainability in Privacy-Preserving Distributed Machine Learning - [[PDF](https://link.springer.com/content/pdf/10.1007/s44230-023-00032-4.pdf)]
+
+19. Creating Collaborative Data Representations Using Matrix Manifold Optimal Computation and Automated Hyperparameter Tuning - [[HTML](https://doi.org/10.1109/ICEIB57887.2023.10170466)] 🔒
+
+20. New Solutions Based on the Generalized Eigenvalue Problem for the Data Collaboration Analysis - [[PDF](https://arxiv.org/pdf/2404.14164)]
+   
+21. Privacy-preserving recommender system using the data collaboration analysis for distributed datasets - [[PDF](https://arxiv.org/pdf/2406.01603)]
+
 
