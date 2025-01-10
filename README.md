@@ -41,10 +41,10 @@ NOTE: last update (2025/1/10)
 
 19. Creating Collaborative Data Representations Using Matrix Manifold Optimal Computation and Automated Hyperparameter Tuning - [[HTML](https://doi.org/10.1109/ICEIB57887.2023.10170466)] 🔒
 
-20. Data Collaboration Analysis Over Matrix Manifolds - [[PDF](https://arxiv.org/pdf/2403.02780)] 
-
-21. New Solutions Based on the Generalized Eigenvalue Problem for the Data Collaboration Analysis - [[PDF](https://arxiv.org/pdf/2404.14164)]
+20. New Solutions Based on the Generalized Eigenvalue Problem for the Data Collaboration Analysis - [[PDF](https://arxiv.org/pdf/2404.14164)]
    
-22. Privacy-preserving recommender system using the data collaboration analysis for distributed datasets - [[PDF](https://arxiv.org/pdf/2406.01603)]
+21. Privacy-preserving recommender system using the data collaboration analysis for distributed datasets - [[PDF](https://arxiv.org/pdf/2406.01603)]
+
+22. Data Collaboration Analysis Over Matrix Manifolds - [[PDF](https://arxiv.org/pdf/2403.02780)] 
 
 
